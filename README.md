@@ -33,4 +33,5 @@ See a pattern here? Microsoft acquisitions tend to go down the toilet in quality
 
 Feel free to add your signature if you agree with a PR:
 
-[@franciscop](https://github.com/franciscop)
+[@franciscop](https://github.com/franciscop)  
+[@hectorm](https://github.com/hectorm)
