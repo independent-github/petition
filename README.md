@@ -8,7 +8,7 @@ But let's get to the point: **we would love for you to remain independent**. The
 
 First, let's be clear: Microsoft is doing many cool things recently, specially for developers. But there are few major issues with the company that makes us think that Microsoft owning the biggest place that has ever existed for open source is not such a good idea:
 
-<details><summary>Click here to show Microsoft acquisition history</summary>
+<details><summary>Click here to show Microsoft history</summary>
 
 - Memory trip: **90s**. [This has been repeated ad nauseam](https://news.ycombinator.com/item?id=17221527) so I won't be explaining it here. If anyone reading this started programming within the last 10 years, please do a bit of research. Even after all the damage that Microsoft did to Linux and Open Source, let's for a moment assume that the company is different now.
 
