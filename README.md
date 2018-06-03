@@ -24,11 +24,12 @@ First, let's be clear: Microsoft is doing many cool things recently, specially f
 
 </details>
 
-Microsoft acquisitions tend to go down the toilet in quality to the point that the userbase ends up hating it. Github is the most loved platform by developers and we love the work you are doing on it, so we'd love for things to stay this way as long as possible.
 
-**So we, the open source developer community that loves Github** would like to ask you:
+Microsoft acquisitions tend to go down the toilet in quality to the point that the userbase ends up hating it. We love the work you are doing on it, so we'd like for things to stay this way as long as possible.
 
-## Github please, remain an independent party
+**The open source developer community that loves Github** would like to ask Github:
+
+## Github please remain an independent party
 
 
 ***
