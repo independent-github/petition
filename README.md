@@ -31,6 +31,6 @@ See a pattern here? Microsoft acquisitions tend to go down the toilet in quality
 
 ## Signatures
 
-Feel free to open a PR if you agree adding your signature:
+Feel free to add your signature if you agree with a PR:
 
 [@franciscop](https://github.com/franciscop)
