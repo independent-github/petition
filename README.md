@@ -36,7 +36,7 @@ Microsoft acquisitions tend to go down the toilet in quality to the point that t
 
 ## Signatures
 
-Feel free to add your signature if you agree with a PR:
+Feel free to add your signature if you agree with a PR and share this Github repository:
 
 [@franciscop](https://github.com/franciscop)
 [@jab2870](https://github.com/Jab2870)
