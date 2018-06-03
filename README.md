@@ -41,3 +41,4 @@ Feel free to add your signature if you agree with a PR and share this Github rep
 [@franciscop](https://github.com/franciscop)
 [@jab2870](https://github.com/Jab2870)
 [@hectorm](https://github.com/hectorm)
+[@Stargator](https://github.com/Stargator)
