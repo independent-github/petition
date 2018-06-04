@@ -1,3 +1,7 @@
+**[DISCONTINUED]** Too late; [the deal is closed](https://blogs.microsoft.com/blog/2018/06/04/microsoft-github-empowering-developers/). Please feel free to [cancel your Github payment](https://help.github.com/articles/downgrading-a-user-account-to-free/) and [to move to GitLab](https://docs.gitlab.com/ee/user/project/import/github.html) if you wish so. The show is over and it was fun while it lasted, I won't be accepting any more PR here 😢.
+
+
+
 # Dear Github,
 
 This is your userbase, the thousands of developers creating open source daily in the platform that we all love, Github. First of all, a sincere **thank you**. There are few projects or platforms that have been so influential to the spread of open source as Github. We have spent a combination of thousands of years creating the best software in the world, and it only thanks to you that this has been possible.
