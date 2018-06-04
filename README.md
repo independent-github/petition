@@ -45,15 +45,12 @@ Feel free to add your signature if you agree with a PR and share this Github rep
 [@lenovouser](https://github.com/lenovouser)
 [@coppolaemilio](https://github.com/coppolaemilio)
 [@navidkhn1](https://github.com/navidkhn1)
-
 [@ands](https://github.com/ands)
-
 [@johnturek](https://github.com/johnturek)
 [@MohamedAlFahim](https://github.com/MohamedAlFahim)
-
 [@portokallidis](https://github.com/portokallidis)
-
 [@jaxxu](https://github.com/jaxxu)
 [@bubodlack](https://github.com/bubodlack)
-
 [@SuperFola](https://github.com.SuperFola)
+[@flipcoder](https://github.com/flipcoder)
+[@acdemiralp](https://github.com/acdemiralp)
