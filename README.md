@@ -6,7 +6,7 @@ There is no software platform that can ever be compared to what you have been do
 
 But let's get to the point: **we would love for you to remain independent**. There is too much incentive for major companies to change Github to benefit themselves. This could apply to Google, Apple, Amazon, etc, but this time it happens to be Microsoft.
 
-First, let's be clear: Microsoft is doing many cool things recently, specially for developers. But there are few major issues with the company that makes us think that Microsoft owning the biggest place that has ever existed for open source is not such a good idea:
+First, let's be clear: Microsoft is doing many cool things recently, especially for developers. But there are few major issues with the company that makes us think that Microsoft owning the biggest place that has ever existed for open source is not such a good idea:
 
 <details><summary>Click here to show Microsoft history</summary>
 
