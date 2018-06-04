@@ -54,5 +54,6 @@ Feel free to add your signature if you agree with a PR and share this Github rep
 [@portokallidis](https://github.com/portokallidis)
 
 [@jaxxu](https://github.com/jaxxu)
+[@bubodlack](https://github.com/bubodlack)
 
 
