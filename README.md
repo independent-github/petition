@@ -45,4 +45,8 @@ Feel free to add your signature if you agree with a PR and share this Github rep
 [@lenovouser](https://github.com/lenovouser)
 [@coppolaemilio](https://github.com/coppolaemilio)
 [@navidkhn1](https://github.com/navidkhn1)
+
 [@ands](https://github.com/ands)
+
+[@johnturek](https://github.com/johnturek)
+
