@@ -56,3 +56,4 @@ Feel free to add your signature if you agree with a PR and share this Github rep
 - [@SuperFola](https://github.com.SuperFola)
 - [@flipcoder](https://github.com/flipcoder)
 - [@acdemiralp](https://github.com/acdemiralp)
+- [@geofrey](https://github.com/geofrey)
