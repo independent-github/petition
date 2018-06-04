@@ -50,5 +50,9 @@ Feel free to add your signature if you agree with a PR and share this Github rep
 
 [@johnturek](https://github.com/johnturek)
 [@MohamedAlFahim](https://github.com/MohamedAlFahim)
+
 [@portokallidis](https://github.com/portokallidis)
+
+[@jaxxu](https://github.com/jaxxu)
+
 
