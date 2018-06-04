@@ -50,6 +50,7 @@ Feel free to add your signature if you agree with a PR and share this Github rep
 [@MohamedAlFahim](https://github.com/MohamedAlFahim)
 [@portokallidis](https://github.com/portokallidis)
 [@jaxxu](https://github.com/jaxxu)
+[@livingsilver94](https://github.com/livingsilver94)
 [@beard33](https://github.com/beard33)
 [@bubodlack](https://github.com/bubodlack)
 [@SuperFola](https://github.com.SuperFola)
