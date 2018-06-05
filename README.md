@@ -61,3 +61,4 @@ Feel free to add your signature if you agree with a PR and share this Github rep
 - [@flipcoder](https://github.com/flipcoder)
 - [@acdemiralp](https://github.com/acdemiralp)
 - [@geofrey](https://github.com/geofrey)
+- [@bicrypt](https://github.com/bicrypt)
